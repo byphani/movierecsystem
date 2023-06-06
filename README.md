@@ -1,5 +1,5 @@
 # movierecsystem
-A content based movie recommendation system I made. This is just the skeleton of the project.. The real fun begins when I deploy this on heroku :)
+A content based movie recommendation system I made. This is just the skeleton of the project. I'm yet to deploy this on heroku.
 
 
 This type of content based recommendation systems are quite simple to understand and implement. 
